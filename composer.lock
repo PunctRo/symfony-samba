@@ -869,12 +869,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/mongodb-odm.git",
-                "reference": "91239639b5b5c91a75ac2a07dbbfe4be0fd177d9"
+                "reference": "f9d26e2839c657659dc129fe5b4aaa7f87d0ea55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/mongodb-odm/zipball/91239639b5b5c91a75ac2a07dbbfe4be0fd177d9",
-                "reference": "91239639b5b5c91a75ac2a07dbbfe4be0fd177d9",
+                "url": "https://api.github.com/repos/doctrine/mongodb-odm/zipball/f9d26e2839c657659dc129fe5b4aaa7f87d0ea55",
+                "reference": "f9d26e2839c657659dc129fe5b4aaa7f87d0ea55",
                 "shasum": ""
             },
             "require": {
@@ -929,6 +929,10 @@
                 {
                     "name": "Maciej Malarz",
                     "email": "malarzm@gmail.com"
+                },
+                {
+                    "name": "Andreas Braun",
+                    "email": "alcaeus@alcaeus.org"
                 }
             ],
             "description": "Doctrine MongoDB Object Document Mapper",
@@ -939,7 +943,7 @@
                 "odm",
                 "persistence"
             ],
-            "time": "2015-05-14 16:54:33"
+            "time": "2015-05-22 07:35:15"
         },
         {
             "name": "doctrine/mongodb-odm-bundle",
@@ -1488,16 +1492,16 @@
         },
         {
             "name": "sensiolabs/security-checker",
-            "version": "v2.0.2",
+            "version": "v2.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/security-checker.git",
-                "reference": "cecb1397087dc9c733796eda6e9d121336039cdc"
+                "reference": "cde03c48d490d805ef1349e5108f8b3085981ead"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/security-checker/zipball/cecb1397087dc9c733796eda6e9d121336039cdc",
-                "reference": "cecb1397087dc9c733796eda6e9d121336039cdc",
+                "url": "https://api.github.com/repos/sensiolabs/security-checker/zipball/cde03c48d490d805ef1349e5108f8b3085981ead",
+                "reference": "cde03c48d490d805ef1349e5108f8b3085981ead",
                 "shasum": ""
             },
             "require": {
@@ -1529,7 +1533,7 @@
                 }
             ],
             "description": "A security checker for your composer.lock",
-            "time": "2015-04-21 07:52:05"
+            "time": "2015-05-22 14:21:04"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1770,12 +1774,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "abd9b72fbba2aa8108a1d6f5646e99690e932685"
+                "reference": "2aeaa22e3171b5e1f10f2cc2a7ff7f6608b65f9d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/abd9b72fbba2aa8108a1d6f5646e99690e932685",
-                "reference": "abd9b72fbba2aa8108a1d6f5646e99690e932685",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/2aeaa22e3171b5e1f10f2cc2a7ff7f6608b65f9d",
+                "reference": "2aeaa22e3171b5e1f10f2cc2a7ff7f6608b65f9d",
                 "shasum": ""
             },
             "require": {
@@ -1884,7 +1888,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2015-05-16 13:30:28"
+            "time": "2015-05-25 07:45:54"
         },
         {
             "name": "twig/extensions",
